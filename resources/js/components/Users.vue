@@ -12,16 +12,14 @@
                                 <th>Name</th>
                                 <th>Email</th>
                                 <th>Type</th>
-                                <th>Modifiy</th>
-                                <th>Start date</th>
-                                <th>Salary</th>
+                                <th>Modifiy</th>       
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Tiger Nixon</td>
+                                <td>1</td>
                                 <td>System Architect</td>
-                                <td>Edinburgh</td>
+                                <td>Dy@gmail.com</td>
                                 <td>61</td>
                                 <td>2011/04/25</td>
                                 <td>$320,800</td>
